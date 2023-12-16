@@ -11,7 +11,7 @@ A simple script to pull stock quotes to copy paste into a spreadsheet.
 
 ## Example Output
 ```
-MSFT	365.93
 VTSAX	114.69
+MSFT	365.93
 ```
 
